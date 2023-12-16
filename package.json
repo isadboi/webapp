@@ -1,0 +1,10 @@
+{
+  "name": "Escrow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "cd escrow-api && npm start ",
+    "client": "cd escrow-ui && yarn run dev "
+  }
+}
